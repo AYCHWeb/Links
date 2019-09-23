@@ -1,0 +1,118 @@
+{
+    "attr-img-crossorigin#crossorigin": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Attributes/crossorigin",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#attr-img-crossorigin",
+            "support_from": ["html/elements/img.json", "html.elements.img.crossorigin"]
+        }
+    },
+    "broadcasting-to-other-browsing-contexts#Broadcast_Channel_API": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Broadcast_Channel_API",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#broadcasting-to-other-browsing-contexts",
+            "support_from": ["api/BroadcastChannel.json", "api.BroadcastChannel"]
+        }
+    },
+    "canvasimagesource#CanvasImageSource": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/CanvasImageSource",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#canvasimagesource"
+        }
+    },
+    "channel-messaging#Channel_Messaging_API": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Channel_Messaging_API",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#channel-messaging",
+            "support_from": ["api/MessageChannel.json", "api.MessageChannel"]
+        }
+    },
+    "channel-messaging#Using_channel_messaging": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Channel_Messaging_API/Using_channel_messaging",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#channel-messaging",
+            "support_from": ["api/MessageChannel.json", "api.MessageChannel"]
+        }
+    },
+    "cors-settings-attributes#crossorigin": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Attributes/crossorigin",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#cors-settings-attributes",
+            "support_from": ["html/elements/img.json", "html.elements.img.crossorigin"]
+        }
+    },
+    "dom-textarea/input-select#select": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/HTMLInputElement/select",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#dom-textarea/input-select"
+        }
+    },
+    "event-handler-attributes#Event_handlers": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/Guide/Events/Event_handlers",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#event-handler-attributes"
+        }
+    },
+    "fakepath-srsly#file": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/input/file",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#fakepath-srsly"
+        }
+    },
+    "global-attributes#Global_attributes": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Global_attributes",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#global-attributes"
+        }
+    },
+    "linkTypes#Link_types": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Link_types",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#linkTypes"
+        }
+    },
+    "pseudo-classes#Pseudo-classes": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/CSS/Pseudo-classes",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#pseudo-classes"
+        }
+    },
+    "server-sent-events#Server-sent_events": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Server-sent_events",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#server-sent-events",
+            "support_from": ["api/EventSource.json", "api.EventSource"]
+        }
+    },
+    "the-input-element#input": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/HTML/Element/input",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#the-input-element"
+        }
+    },
+    "webstorage#Web_Storage_API": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Web_Storage_API",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#webstorage",
+            "support_from": ["api/Storage.json","api.Storage"]
+        }
+    },
+    "webstorage#Using_the_Web_Storage_API": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#webstorage"
+        }
+    },
+    "workers#Web_Workers_API": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Web_Workers_API",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#workers",
+            "support_from": ["api/Worker.json","api.Worker"]
+        }
+    },
+    "workers#Using_web_workers": {
+        "__compat": {
+            "mdn_url": "https://developer.mozilla.org/docs/Web/API/Web_Workers_API/Using_web_workers",
+            "spec_url": "https://html.spec.whatwg.org/multipage/#workers"
+        }
+    }
+}
